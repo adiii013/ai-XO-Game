@@ -1,6 +1,6 @@
 var origBoard;//Keep track of elements in board
-let huPlayer = Math.floor(Math.random() * 10).toString();
-let aiPlayer = Math.floor(Math.random() * 10).toString();
+let huPlayer = 'X'
+let aiPlayer = 'O'
 
 
 
